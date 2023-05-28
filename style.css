@@ -211,6 +211,9 @@ body {
         .search-bar input[type="text"] {
           width: 100%;
         }
+	 .table{
+		 width: 100%
+	    }
       }
       
       @media screen and (max-width: 480px) {
@@ -227,6 +230,9 @@ body {
           display: block;
           margin: 10px 0;
         }
+	 .table{
+		 width: 100%
+	      }
       }
       @media screen and (max-width: 600px) {
         
@@ -237,6 +243,9 @@ body {
         .moon {
           display: none; 
         }
+	.table{
+	     width: 100%;
+	      }
       }
 	@media screen and (max-width: 767px) {
         
